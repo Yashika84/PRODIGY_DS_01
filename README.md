@@ -13,11 +13,10 @@ This dataset contains total population values for countries worldwide between 20
 
 
 # Tools & Libraries 
--Python 
--Jupyter notebook
--Pandas
--Matplotlib
--Seaborn
+- **Python**
+- **Jupyter Notebook**
+- **Pandas**
+- **Matplotlib**
 
 # Workflow Summary
 1. Exploratory Data Analysis (EDA)
@@ -42,6 +41,7 @@ Thank you for reviewing my submission
 # Contact
 For any inquiries or feedback regarding this project, please contact:
 
-www.linkedin.com/in/yashika-vashist-810394284 (Linkedin)
-Email: yashikavashist543@gmail.com
+**www.linkedin.com/in/yashika-vashist-810394284 (Linkedin)**
+**Email: yashikavashist543@gmail.com**
+
 
