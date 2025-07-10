@@ -41,7 +41,7 @@ Thank you for reviewing my submission
 # Contact
 For any inquiries or feedback regarding this project, please contact:
 
-**www.linkedin.com/in/yashika-vashist-810394284 (Linkedin)**
-**Email: yashikavashist543@gmail.com**
+- **www.linkedin.com/in/yashika-vashist-810394284 (Linkedin)**
+- **Email: yashikavashist543@gmail.com**
 
 
